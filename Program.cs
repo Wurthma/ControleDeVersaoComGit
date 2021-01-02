@@ -8,6 +8,7 @@ namespace ControleDeVersaoComGit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(DateTime.Now.ToLongDateString());
+            Console.WriteLine("Desenvolvedor: George Henrique Wurthmann");
         }
     }
 }
